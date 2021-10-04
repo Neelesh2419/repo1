@@ -1,1 +1,2 @@
 yet another file on remote to learn merge with conflicts
+a fie for merge with conflicts

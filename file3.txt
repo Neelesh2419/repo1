@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a new fie is created to learn merge concept on remote
+=======
+a new line added in file 5 to learn merge concept
+>>>>>>> dbfee5b (file3 created on local)
